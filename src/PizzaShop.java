@@ -1,4 +1,4 @@
-public class ChoosePizza {
+public class PizzaShop {
 
 import java.util.Scanner;
 
